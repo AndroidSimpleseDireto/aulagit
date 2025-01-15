@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        var i = 100
+        var sidnei = 10000
 
     }
 }
